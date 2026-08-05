@@ -1,12 +1,11 @@
 # Hi! Eu sou o Samuel Uchoa 🙃
 <div>
   <p>
-    - ⌛ 2⁰ Temporada - 2⁰ episódio   <br>
-    - <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3ea0cfce-96ab-4924-a04d-a2467162aa62" />
-              <br>
-    - 🌱Estudante de telecommunições <br>
-    - ⚔ Desbravador <br>
-    - ☁ Reflexivo
+    - 2⁰ Temporada - 2⁰ episódio   <br>
+    - Estudante de telecommunições <br>
+    - ⚔ Desbravador <br> 
+    - ☁ Reflexivo <br>
+    - Ciclista
   </p>
 </div>
 
